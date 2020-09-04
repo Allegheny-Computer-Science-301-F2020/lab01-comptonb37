@@ -1,7 +1,7 @@
 ## Lab 1 Assignment:
 ### Researching and Reporting on Database Tools
-#### Name:
-#### Date:
+#### Name: Brian Compton
+#### Date: September 11, 2020
 
 ### Article 1
  -  Article name.
@@ -47,7 +47,3 @@
 
 - Who stands to lose or to gain something from this form of analysis?
  - Your answer here
-
-
-
-#### Did you remember to add your name to this document?
