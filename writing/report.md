@@ -4,7 +4,7 @@
 #### Date: September 11, 2020
 
 ### Article 1
-# Article name.
+##### Article name.
  - Clustering steam user behavior data using -Prototypes algorithm
 
 ##### Reference or article citation.
